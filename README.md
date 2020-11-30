@@ -9,7 +9,7 @@
 <a href="https://instagram.com/eiroweb"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 </p>
 <br>
-<p align="center">Moi c'est Eiro, je suis un jeune développeur passionné par l'informatique depuis toujours ! J'adore faire des petits script pendant mon temps libre pour aider la communauté :)</p>
+<p align="center">Moi c'est Eiro, je suis un jeune développeur passionné par l'informatique depuis toujours ! J'adore faire des petits script pendant mon temps libre pour aider la communauté ainsi que le graphisme :)</p>
 <br>
 
 ### 📫 Langage maîtrisés
