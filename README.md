@@ -34,8 +34,6 @@
 <br>
 <br>
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=EiroWeb.EiroWeb" />
-
-
 <br>
 <a href="https://github.com/EiroWeb">
   
