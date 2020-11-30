@@ -17,6 +17,9 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
 <code><img height="20" src="https://cdn.discordapp.com/attachments/769272569034833920/782774606087979028/1_l4xICbIIYlz1OTymWCoUTw.jpeg"></code>&nbsp;
+
+![Profile views](https://gpvc.arturio.dev/EiroWeb)
+
 <br>
 <a href="https://github.com/EiroWeb">
   
