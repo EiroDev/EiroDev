@@ -11,8 +11,6 @@
 <br>
 <p align="center">Moi c'est Eiro, je suis un jeune développeur passionné par l'informatique depuis toujours ! J'adore faire des petits script pendant mon temps libre pour aider la communauté :)</p>
 <br>
-<br>
-
 ### 📫 Langage maîtrisés
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp;
